@@ -1,0 +1,32 @@
+.btn{
+    background: #004275;
+    color: #fff;
+    border: 2px solid #042742;
+    padding: 10px 20px;
+    display: inline-block;
+    text-decoration: none;
+    border-radius: 6px;
+    transition: all .3s ease;
+}
+
+.verde{
+    background: #038d0e;
+    border-color: #04580b;
+}
+
+.verde:hover{
+    background: #04580b;
+    box-shadow: 2px 2px 4px rgba(0,0,0,.8);
+}
+
+.verde:active{
+    box-shadow: none;
+}
+
+.sombra{
+    
+}
+
+p{
+    display: block;
+}
